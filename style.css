@@ -1,0 +1,17 @@
+h1{
+    font-size: 23px;
+    color:white;
+
+}
+button{
+    font-size: 23px;
+    background-color:gray;
+    color: white;
+}
+.copy_right_footer{
+   text-align: center;
+   width: 100%;
+   margin-bottom: 0;
+   margin-top: 380px;
+   position: sticky;
+}
